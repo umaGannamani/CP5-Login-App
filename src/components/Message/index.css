@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.message {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 500;
+}
